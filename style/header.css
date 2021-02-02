@@ -1,0 +1,27 @@
+header, header .content {
+	background-color: #36b54b;
+}
+header .box {
+	background-color: transparent;
+}
+header .box a {
+	font-size: 40px;
+	text-align: center;
+	font-family: 'Hachi Maru Pop', cursive;
+	color: #000000;
+	background-color: #80ff00;
+	text-decoration: none;
+	display: inline-block;
+	height: 90%;
+	width: 70%;
+	text-align: center;
+	padding: 20px;
+	text-align: center;
+	border: 3px groove black;
+	border-radius: 5px;
+	cursor: wait;
+}
+header .box a :hover {
+	color: #ff4f4f;
+	background-color: #4f64ff;
+}
